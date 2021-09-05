@@ -1,0 +1,1157 @@
+@media screen and (max-width:1600px) and (min-width:1450px) {
+.map iframe, .map_right{
+  height:860px;
+}
+}
+
+@media screen and (max-width:1440px) and (min-width:1366px) {
+.map iframe, .map_right{
+  height:900px;
+}
+}
+
+@media screen and (max-width:1280px) and (min-width:320px) {
+    .send,
+    .team_part {
+        float: left
+    }
+    .section_6_ctn .left .add {
+        margin-right: 10px;
+        width: 85%
+    }
+    .logo_pannel {
+        width: 210px;
+        height: 250px
+    }
+    .social_media {
+        width: 100px;
+        height: 100vh;
+        position: relative;
+        top: -280px
+    }
+    .menu li {
+        padding-left: 26px
+    }
+    .part img {
+        width: 250px
+    }
+    .part:last-child {
+        margin-right: -30px
+    }
+    .part h4 {
+        font-size: 28px
+    }
+    .part p {
+        font-size: 15px;
+        width: 290px
+    }
+    .fmenu {
+        margin-top: -20px
+    }
+    .pagecon {
+        margin-top: -50px
+    }
+    .team_part {
+        position: relative;
+        width: 31%;
+        margin: 0 1% 10px;
+        transition: all .2s linear 0s
+    }
+    .office_members img {
+        width: 100%
+    }
+    .qTittle h3 {
+        width: 100%;
+        overflow: inherit;
+        white-space: normal
+    }
+
+.map iframe, .map_right{
+  height:940px;
+}
+}
+
+@media screen and (max-width:1024px) and (min-width:320px) {
+    .box_1,
+    .box_1 input,
+    .box_1 textarea {
+        margin-left: 0
+    }
+    .f_ctn,
+    .flogo {
+        text-align: center;
+        display: block
+    }
+    .showcall,
+    .showemail,
+    .showlocation,
+    .showphone,
+    .showproject,
+    .showsquare,
+    .showusername {
+        width: 70%
+    }
+    .qTittle h3 {
+        white-space: nowrap
+    }
+    .qenloca input {
+        width: 94%
+    }
+    .container {
+        width: 87%
+    }
+    .logo_pannel {
+        width: 140px;
+        height: 250px
+    }
+    .logo_pannel img {
+        width: 120%
+    }
+    .box_1,
+    .left {
+        width: 100%
+    }
+    .menu li a {
+        font-size: 11px
+    }
+    .banner_ctn {
+        right: 50px
+    }
+    .box_1 input {
+        width: 50%;
+        padding-right: 75px
+    }
+    .box_1 textarea {
+        width: 100%;
+        padding-right: 85px
+    }
+    .send {
+        position: absolute;
+        bottom: 0
+    }
+    .section_6_ctn {
+        padding-bottom: 90px
+    }
+    .send a {
+        padding: 16px 60px
+    }
+    .about_section_ctn h4 {
+        font-size: 45px
+    }
+    .about_section_ctn p {
+        font-size: 19px
+    }
+    .service_part li {
+        padding-left: 70px
+    }
+    .service_part p {
+        max-width: 500px;
+        width: 120%;
+        font-size: 15px
+    }
+    .map iframe {
+        width: 100%;
+        height: 450px
+    }
+    .map_right {
+        width: 100%;
+        float: left
+    }
+    .flogo,
+    .footer p,
+    .webspa,
+    .xmis_left,
+    .xvis_left {
+        float: none
+    }
+    .flogo {
+        width: 100%;
+        margin: 0 auto;
+        padding-left: 75px
+    }
+    .flogo img {
+        width: 80%
+    }
+    .footer h6,
+    .footer p {
+        width: 100%;
+        position: static
+    }
+    .footer h6 {
+        text-align: center;
+        margin-top: 30px
+    }
+    .ts {
+        padding-right: 0;
+        position: relative;
+        top: -60px
+    }
+    .fmenu {
+        margin-left: 0;
+        margin-top: 0
+    }
+    .f_ctn {
+        margin-bottom: 50px
+    }
+    .project_image {
+        width: 33.3%
+    }
+    .team_part {
+        width: 38%;
+        margin: 0 48px 40px
+    }
+    .tsection2 {
+        padding-bottom: 0
+    }
+    .xvis_left {
+        width: auto;
+        background: 0 0
+    }
+    .xvis_ctn {
+        border: none;
+        padding: 0
+    }
+    .xvis_right {
+        width: auto;
+        padding: 20px;
+        margin-left: 0
+    }
+    .xmis_left {
+        width: auto;
+        background: 0 0
+    }
+    .xmis_ctn {
+        border: none;
+        padding: 0
+    }
+    .xmis_right {
+        width: auto;
+        padding: 20px;
+        margin-right: 0
+    }
+    .xmission {
+        padding-top: 70px
+    }
+    .xmis_ctn h5,
+    .xvis_ctn h5 {
+        color: #d58742
+    }
+    .s_p2 li {
+        width: 35%
+    }
+    .getQuote,
+    .venam {
+        left: 150px
+    }
+    .scrollToTop {
+        right: 0
+    }
+    .section7a iframe {
+        width: 350px
+    }
+}
+
+@media screen and (max-width:940px) and (min-width:320px) {
+    .proSel li label p {
+        font-size: 15px
+    }
+    .set {
+        width: 90%
+    }
+    .noma {
+        top: inherit;
+        right: 80px;
+        bottom: -90px
+    }
+    .bulli {
+        top: inherit;
+        left: 20px
+    }
+}
+
+@media screen and (max-width:900px) and (min-width:320px) {
+    .menu .venam,
+    .sicons::before {
+        display: none
+    }
+    .about_banner h2,
+    .section7a h3 {
+        text-align: center
+    }
+    .logo_pannel {
+        background: 0 0;
+        padding-top: 30px
+    }
+    .social_media {
+        background: 0 0;
+        width: 72%;
+        top: -170%;
+        position: absolute
+    }
+    .social_media li {
+        float: left;
+        padding: 0 15px
+    }
+    .part,
+    .part:last-child {
+        float: none
+    }
+    .logo,
+    .part {
+        padding-top: 50px
+    }
+    .sicons {
+        position: absolute;
+        left: 83%;
+        right: -37%;
+        bottom: 60%
+    }
+    .additional,
+    .part {
+        display: block
+    }
+    .sicons li a {
+        font-size: 14px
+    }
+    .banner_ctn h2 {
+        font-size: 37px
+    }
+    .banner_ctn p {
+        font-size: 17px
+    }
+    .sec2_img {
+        position: relative;
+        left: 60%
+    }
+    .part p {
+        width: 400px
+    }
+    .part:first-child {
+        padding-top: 0
+    }
+    .number h2 {
+        font-size: 250px;
+        padding-bottom: 50px
+    }
+    .text_ctn p {
+        width: 90%
+    }
+    .about_banner h2 {
+        position: absolute;
+        font-size: 38px;
+        right: 10%
+    }
+    .about_section_ctn {
+        padding-left: 0
+    }
+    .service_part li {
+        width: 100%;
+        padding-left: 0;
+        padding-top: 50px
+    }
+    .service_part li:first-child {
+        padding-top: 0
+    }
+    .service_part p {
+        width: 90%;
+        display: block;
+        margin: 0 auto;
+        font-size: 15px
+    }
+    .section7a,
+    .section7b {
+        width: 100%
+    }
+    ul.tabs1 li {
+        font-size: 20px;
+        padding: 13px 7px
+    }
+    .s_p2 li,
+    .s_p2 li:first-child {
+        padding-left: 0
+    }
+    .about_banner::after {
+        height: 130px
+    }
+    .applysection {
+        margin-top: -80px
+    }
+    .section7b {
+        padding-right: 0;
+        padding-top: 80px
+    }
+    .tsection2 {
+        padding-bottom: 80px
+    }
+    .team_part {
+        width: 43%;
+        margin: 0 20px
+    }
+    .s_p2 li {
+        width: 100%;
+        padding-bottom: 40px
+    }
+    .s_p2 p {
+        max-width: -webkit-fill-available
+    }
+    .rm2 {
+        display: none
+    }
+    .section7a iframe {
+        width: 450px;
+        margin: 45px auto 0;
+        float: none;
+        display: block
+    }
+}
+
+@media screen and (max-width:770px) and (min-width:320px) {
+    .banner_ctn,
+    .menu {
+        position: absolute;
+        text-align: center
+    }
+    .flogo,
+    .footer p,
+    .webspa {
+        float: none
+    }
+    .banner_ctn,
+    .f_ctn,
+    .flogo,
+    .footer h6,
+    .menu,
+    .webspa {
+        text-align: center
+    }
+    .menu,
+    .social_media {
+        display: none
+    }
+    .menu li,
+    .res_menu i {
+        display: block
+    }
+    .menu li {
+        width: 100%;
+        z-index: 5;
+        padding: 20px 0
+    }
+    .menu li a:hover {
+        border-radius: none
+    }
+    .menu li a {
+        padding: 40px 25px;
+        font-size: 13px;
+        width: 100%
+    }
+    .menu {
+        top: 85px;
+        width: 100%;
+        overflow: hidden;
+        z-index: 11;
+        right: 0;
+        background-color: #2b2b2b;
+        box-shadow: 0 2px 15px 2px rgba(0, 0, 0, .5)
+    }
+    .bigone,
+    .bigone_2,
+    .bigone_3 {
+        display: none
+    }
+    .f_ctn,
+    .ficons,
+    .flogo {
+        display: block
+    }
+    .banner_ctn {
+        left: 50%;
+        margin-top: 40px;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 100%
+    }
+    .footer h6,
+    .footer p {
+        width: 100%;
+        position: static
+    }
+    .banner_ctn h2 {
+        font-size: 33px;
+        line-height: 1.3
+    }
+    .banner_ctn p {
+        font-size: 15px
+    }
+    .flogo {
+        width: 100%;
+        margin: 0 auto;
+        padding-left: 0
+    }
+    .flogo img {
+        width: 100%
+    }
+    .footer h6 {
+        margin-top: -15px
+    }
+    .flogo img,
+    .pagecon,
+    .ts,
+    .vertical,
+    .webspa {
+        position: relative
+    }
+    .f_ctn {
+        margin-bottom: 50px
+    }
+    .success {
+        font-size: 20px
+    }
+    ul.tabs1 li {
+        font-size: 16px;
+        padding: 13px 7px
+    }
+    .jobcareer {
+        padding-top: 70px
+    }
+    .webspa {
+        top: 6 px
+    }
+    .fmenu {
+        display: none
+    }
+    .aplly_input,
+    .aplly_inputt {
+        width: 90%
+    }
+    .pagecon {
+        top: -60px
+    }
+    .page_details,
+    .pages_details {
+        width: 100%;
+        position: relative;
+        left: 0
+    }
+    .pages_details ul li {
+        width: 136px;
+        display: inline-block
+    }
+    .page_details ul li {
+        padding: 25px
+    }
+    .flogo img {
+        left: 0
+    }
+    .ts {
+        padding-right: 0;
+        top: 0
+    }
+    .footer h6 {
+        margin-bottom: 10px
+    }
+    .vimal {
+        margin-top: -200px
+    }
+    .project_image {
+        width: 50%
+    }
+    .vertical {
+        top: -110px;
+        font-size: 13px;
+        right: -50px;
+        letter-spacing: 4px
+    }
+    .section_2_ctn {
+        padding-bottom: 100px
+    }
+    .aip li a img {
+        width: 145px
+    }
+    .ppimage {
+        width: 100%;
+        height: auto
+    }
+    .page_details {
+        position: inherit;
+        margin-top: 0;
+        width: 100%
+    }
+    .noneed {
+        display: block
+    }
+    .venam {
+        display: none
+    }
+    .getQuote {
+        left: inherit;
+        right: 60px
+    }
+}
+
+@media screen and (max-width:690px) and (min-width:320px) {
+    .cdetails li h2,
+    .section_6_ctn .left .add h2 {
+        font-size: 18px
+    }
+    .line {
+        width: 92%
+    }
+    .qenloca input {
+        width: 85%
+    }
+    .box_1,
+    .box_1 input {
+        width: 90%;
+        margin-left: 0
+    }
+    .box_1 {
+        padding: 0
+    }
+    .box_1 textarea {
+        width: 87%;
+        margin-left: 0
+    }
+    .box_1 li {
+        float: none;
+        padding-top: 0
+    }
+    .about_banner h2 {
+        position: absolute;
+        font-size: 30px;
+        right: 7%;
+        line-height: 1.5;
+        text-align: center
+    }
+    .about_section_ctn h4 {
+        font-size: 34px;
+        text-align: center
+    }
+    .about_section_ctn p {
+        font-size: 17px;
+        width: auto
+    }
+    .carrerp,
+    .pagecon h3 {
+        width: 100%
+    }
+    .exp_details li p {
+        font-size: 12px
+    }
+    .exp_details li p a {
+        font-size: 11px
+    }
+    .cdetails {
+        padding-left: 0
+    }
+    .cdetails li span {
+        font-size: 16px
+    }
+    .cdetails li p {
+        font-size: 14px
+    }
+    .map_right {
+        height: 500px
+    }
+    .carrerp {
+        font-size: 17px
+    }
+    ul.tabs1 {
+        padding-top: 80px
+    }
+    ul.tabs1 li {
+        display: block;
+        padding: 25px 0
+    }
+    .applysection {
+        margin-top: -100px
+    }
+    .part,
+    .part h4,
+    .part p {
+        text-align: center;
+        margin: 0 auto
+    }
+    .onammm {
+        display: block;
+        position: relative;
+        top: -120px
+    }
+    .part {
+        width: auto
+    }
+    .part p {
+        width: 500px;
+        padding-top: 30px
+    }
+    .aip li a {
+        margin-right: -5px;
+        padding-right: 0
+    }
+    .part:last-child {
+        width: auto;
+        position: initial;
+        margin-right: 0
+    }
+    .part img {
+        width: 100%
+    }
+    .sec2_img {
+        position: relative;
+        left: 0
+    }
+    .team_part p {
+        font-size: 14px;
+        width: 228px
+    }
+    .team_part h3 {
+        font-size: 19px
+    }
+    .team_part img {
+        width: 220px
+    }
+    .team_part {
+        width: 43%;
+        margin: 0 144px
+    }
+    .chat_box img {
+        width: 65%
+    }
+    .chat_box {
+        right: -50px;
+        bottom: -5px
+    }
+}
+
+@media screen and (max-width:600px) and (min-width:320px) {
+    .showcall,
+    .showemail,
+    .showlocation,
+    .showphone,
+    .showproject,
+    .showsquare,
+    .showusername {
+        width: 60%
+    }
+    .qprev {
+        font-size: 13px
+    }
+    .qenloca i {
+        top: 51px
+    }
+    .qseltag {
+        right: 10px
+    }
+    .banner_ctn h2 {
+        font-size: 28px;
+        line-height: 1.3;
+        letter-spacing: 3px
+    }
+    .banner_ctn p {
+        font-size: 13px
+    }
+    .banner_ctn a {
+        line-height: 10px;
+        font-size: 11px
+    }
+    ,
+    .abt_sec3 h3,
+    .tab1_ctn h2,
+    h3 {
+        font-size: 24px
+    }
+    .wt a {
+        font-size: 12px;
+        padding: 14px 22px
+    }
+    .onam {
+        display: block;
+        position: relative;
+        top: -10px
+    }
+    .about_banner h2 .sicon {
+        font-size: 21px
+    }
+    .tab1_ctn h2 {
+        font-size: 19px;
+        width: 90%
+    }
+    .pagecon h3 {
+        font-size: 17px
+    }
+    .banner img {
+        height: 430px
+    }
+    .aip {
+        padding-top: 30px
+    }
+    .section_2_ctn {
+        padding-top: 60px
+    }
+    .if1 {
+        display: none
+    }
+    .if2 {
+        display: block
+    }
+    .proSel li {
+        width: 46%
+    }
+    .qnxt {
+        right: 0
+    }
+    .qTittle h3 {
+        font-size: 21px
+    }
+    .qenloca input {
+        font-size: 17px
+    }
+    .Qnxt {
+        font-size: 13px;
+        padding: 10px 38px
+    }
+}
+
+@media screen and (max-width:520px) and (min-width:320px) {
+    .project_image,
+    .team_part {
+        width: 100%
+    }
+    .map_right {
+        height: 700px
+    }
+    .qenloca i {
+        top: 55px
+    }
+    .line,
+    .line:before,
+    .p2:before,
+    .p3:before,
+    .p4:before,
+    .p5:before,
+    .p6:before,
+    .qname .line:before,
+    .ttse .line:before {
+        height: 3px
+    }
+    .team_part {
+        margin: 0 0 40px
+    }
+    .tsection2 {
+        padding-bottom: 0
+    }
+    .section7a iframe {
+        width: 280px;
+        margin: 45px auto 0;
+        float: none;
+        display: block
+    }
+}
+
+@media screen and (max-width:490px) and (min-width:320px) {
+    .none .proSel li,
+    .section_6_ctn .left .add {
+        width: 100%
+    }
+    .project_slider .owl-controls .owl-buttons .owl-next,
+    .project_slider .owl-controls .owl-buttons .owl-prev,
+    .vertical {
+        display: none
+    }
+    .map_right {
+        height: 720px
+    }
+    ,
+    .section_6_ctn .left .add h2 {
+        text-align: center
+    }
+    .none .proSel li label img {
+        height: 150px
+    }
+    .showcall,
+    .showemail,
+    .showlocation,
+    .showphone,
+    .showproject,
+    .showsquare,
+    .showusername {
+        width: 40%
+    }
+    .qprev {
+        width: 35px;
+        height: 35px
+    }
+    .qprev::after {
+        top: 3px;
+        left: 7px
+    }
+    .part p {
+        font-size: 14px;
+        width: 300px
+    }
+    .abt_sec3 h3,
+    .applysection h3,
+    h3 {
+        font-size: 21px
+    }
+    .pagecon h3 {
+        font-size: 17px
+    }
+    .success h3 {
+        font-size: 19px
+    }
+    .left h4 {
+        font-size: 15px;
+        line-height: 2
+    }
+    .box_1 input {
+        width: 80%
+    }
+    .box_1 textarea {
+        width: 75%
+    }
+    .section_2,
+    .section_5 {
+        padding-right: 0
+    }
+    .section_2_ctn {
+        position: relative;
+        left: 0
+    }
+    .about_banner h2 {
+        position: absolute;
+        right: 4%
+    }
+    .exp_details li p a {
+        display: block;
+        float: none
+    }
+    .exp_details li h3 {
+        font-size: 12px
+    }
+    .map {
+        padding-bottom: 50px
+    }
+    .carrerp {
+        font-size: 15px
+    }
+    .tab-content {
+        margin-top: -30px
+    }
+    .box_1 input,
+    .box_1 textarea {
+        margin-bottom: 0
+    }
+    .pages_details ul li {
+        width: 140px;
+        padding: 20px 15px
+    }
+    .page_details ul li .span1 {
+        font-size: 12px
+    }
+    .page_details ul li .span2 {
+        font-size: 12px;
+        width: initial
+    }
+    .test_ctn h3 {
+        font-size: 17px
+    }
+    .test_ctn p,
+    .xvis_right p {
+        font-size: 14px
+    }
+    .map {
+        margin-top: 60px
+    }
+    .section_6_ctn {
+        padding-top: 50px
+    }
+    .section_5 {
+        padding-top: 0
+    }
+    .proSel li {
+        width: 100%
+    }
+    .qnxt,
+    .qprev {
+        font-size: 13px
+    }
+}
+
+@media screen and (max-width:390px) and (min-width:320px) {
+    .left h4 {
+        font-size: 15px;
+        line-height: 1.5
+    }
+    .section_6_ctn .left .add h2 {
+        text-align: center
+    }
+    .line {
+        width: 85%
+    }
+    .qseltag {
+        right: -11px
+    }
+    .banner img {
+        height: 300px!important
+    }
+    .section_4 {
+        padding-bottom: 50px
+    }
+    .abt_sec3 h3,
+    .applysection h3,
+    .tab1_ctn h2,
+    h3 {
+        font-size: 21px;
+        width: 100%
+    }
+    .pagecon h3 {
+        font-size: 15px
+    }
+    .number h2 {
+        font-size: 180px
+    }
+    .send a {
+        padding: 15px 34px
+    }
+    .projects {
+        margin-top: 60px
+    }
+    .cdetails {
+        padding-top: 27px
+    }
+    .banner_ctn h2 {
+        font-size: 25px;
+        line-height: 1.3;
+        letter-spacing: 3px
+    }
+    .banner_ctn p {
+        font-size: 11px
+    }
+    .banner_ctn a {
+        line-height: 10px;
+        font-size: 10px;
+        padding: 14px 27px
+    }
+    .fbiframe {
+        width: 80%
+    }
+    .about_section_ctn h4 {
+        margin-bottom: 20px
+    }
+    .about_section_ctn p {
+        font-size: 14px;
+        line-height: 1.7
+    }
+    .about_section1 {
+        padding: 50px 0
+    }
+    .service_part {
+        padding-top: 50px
+    }
+    .banner_ctn {
+        margin-top: 28px
+    }
+    .about_banner img,
+    .banner img,
+    .project_banner img {
+        height: 84vh
+    }
+    .section_2_ctn {
+        padding-top: 60px
+    }
+    .backarrow {
+        position: absolute;
+        left: 40px;
+        margin-top: -30px;
+        border: 1px solid #c5a47e;
+        width: 10px;
+        padding: 4px;
+        transition: all .3s linear 0s;
+        height: 10px
+    }
+    .backarrow2 {
+        width: 7px;
+        height: 7px
+    }
+    .vimal {
+        margin-top: -200px
+    }
+    .sssearch {
+        padding: 0 0 7px 12px
+    }
+    .rm button {
+        margin-top: 40px
+    }
+    .getQuote {
+        left: inherit;
+        right: 40px
+    }
+    .set {
+        margin-bottom: 200px
+    }
+    .test_ctn iframe {
+        width: 100%
+    }
+    .about_banner h2{
+        right: -15%;
+    }
+}
+
+@media screen and (max-width:360px) and (min-width:320px) {
+    .banner_ctn h2 {
+        font-size: 25px;
+        line-height: 1.3;
+        letter-spacing: 3px
+    }
+    .banner_ctn a,
+    .banner_ctn p {
+        font-size: 10px
+    }
+    .banner_ctn a {
+        line-height: 10px;
+        padding: 14px 27px
+    }
+    .section_5 {
+        padding: 0 0 65px
+    }
+    .abt_sec3 h3,
+    .tab1_ctn h2,
+    h3 {
+        font-size: 27px
+    }
+    .applysection h3,
+    .pagecon h3 {
+        font-size: 20px
+    }
+    .part p {
+        font-size: 13px;
+        line-height: 1.8
+    }
+    .footer h6 {
+        font-size: 11px
+    }
+    .tab1_ctn h2 {
+        font-size: 16px;
+        width: 100%
+    }
+    ul.tabs1 li {
+        font-size: 14px
+    }
+    .vela {
+        width: 90%
+    }
+    .qweak li p {
+        font-size: 12px
+    }
+    .chat_box img {
+        width: 62%
+    }
+    .chat_box {
+        right: -43px;
+        bottom: -5px
+    }
+    .about_banner h2{
+        right: -22%;
+    }
+}
